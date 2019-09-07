@@ -5,4 +5,4 @@ JDK：1.8<br/>
 Maven：3.5.4<br/>
 
 Tips：:bowtie:<br/>
-如果代码中log.info报错，请自助安装Lombok插件<br/>
+1. 如果代码中log.info报错，请自助安装Lombok插件<br/>
